@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "discord"
+  ],
+  "author": "Haemoffy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
