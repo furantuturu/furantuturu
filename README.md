@@ -1,1 +1,1 @@
-# My _Discord Bot_ Playground (Experimenting and Stuffs)
+# Experimenting and Stuffs with Discord Bot
