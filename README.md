@@ -1,1 +1,1 @@
-# I do bunch of random stuffs that I like to do
+Currently studying, hoping for opportunity to come in the future
