@@ -11,7 +11,7 @@ Forming myself to become full stack developer
 ## 🛠 Skills
 Languages: HTML, CSS, JavaScript, Python, PHP
 
-Database: MySQL, MongoDB, Firebase
+Databases: MySQL, MongoDB, Firebase
 
 
 ## Status & Other Info
