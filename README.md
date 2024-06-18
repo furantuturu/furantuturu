@@ -14,7 +14,7 @@ Languages: HTML, CSS, JavaScript, Python, PHP
 Database: MySQL, MongoDB, Firebase
 
 
-## Other Common Github Profile Sections
+## Status & Other Info
 👩‍💻 Working on getting used to full stack app building environment
 
 🧠 Learning... MERN stack & Laravel
