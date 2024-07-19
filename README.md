@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-Forming myself to become full stack developer
+Forming myself to become full stack developer.
 
 
 ## 🛠 Skills
