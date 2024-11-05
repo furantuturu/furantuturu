@@ -19,7 +19,7 @@ Databases: MySQL, MongoDB, Firebase
 ## Status & Other Info
 👩‍💻 Working on getting used to full stack app building environment and my own mini project series
 
-🧠 Learning......... MERN stack & Laravel
+🧠 Learning........ MERN stack & Laravel
 
 📫 Email: fuwansuu@gmail.com
 
