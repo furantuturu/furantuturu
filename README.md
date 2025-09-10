@@ -1,5 +1,6 @@
 
 # Currently studying, hoping for opportunity to come in the future
+[![wakatime](https://wakatime.com/badge/user/411e1e54-6b1e-4f3c-8616-24796d32f523.svg)](https://wakatime.com/@411e1e54-6b1e-4f3c-8616-24796d32f523)
 
 
 
