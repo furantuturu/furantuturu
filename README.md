@@ -12,16 +12,14 @@ Forming myself to become full stack developer.
 ## 🛠 Skills
 Languages: HTML, CSS, JavaScript/TypeScript, Python, PHP
 
-Frameworks: React
+Frameworks: React, React Native
 
 Databases: MySQL, MongoDB, Supabase(Postgres)
 
 ## Status & Other Info
-👩‍💻 Working on getting used to full stack app building environment and my own mini project series
+👩‍💻 Working on getting used to full stack app building environment 
 
-🧠 Currently Learning........ MERN stack
-
-📫 Email: fuwansuu@gmail.com
+📫 Email: fuwansuu@gmail.com / furantuturu@proton.me
 
 ⚡️ We should live our life more boldly.
 
