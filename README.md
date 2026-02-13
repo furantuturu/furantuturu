@@ -12,7 +12,7 @@ Forming myself to become full stack developer.
 ## 🛠 Skills
 Languages: HTML, CSS, JavaScript/TypeScript, Python, PHP
 
-Frameworks: React, React Native
+Frameworks: React, Laravel
 
 Databases: MySQL
 
