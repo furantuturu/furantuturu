@@ -14,7 +14,7 @@ Languages: HTML, CSS, JavaScript/TypeScript, Python, PHP
 
 Frameworks: React, React Native
 
-Databases: MySQL, MongoDB, Supabase(Postgres)
+Databases: MySQL
 
 ## Status & Other Info
 👩‍💻 Working on getting used to full stack app building environment 
